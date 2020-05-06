@@ -32,6 +32,7 @@ img.lado {
 
 a {
     text-decoration: none;
+    text-align: justify;
     font-weight: bold;
     color: rgb(58, 0, 112);
 }
